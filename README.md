@@ -1,6 +1,5 @@
 # my-nvim-confs
-It's made only in vim script, nothing to special.  /  Sadece vim script kullanarak yapıldı, oldukça basit ve pek de özel bir noktası yok.
-It does look like this.   / Böyle gözükmekte:
+It's made only in vim script, nothing too special.  /  Sadece vim script kullanarak yapıldı, oldukça basit ve pek de özel bir noktası yok.
 
 
 
